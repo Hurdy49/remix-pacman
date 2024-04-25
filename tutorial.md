@@ -1,8 +1,8 @@
 # My example tutorial
 
-# Step 1
+## Step 1
 
-Here is the first and only step of my tutorial.
+Here is the first step of my tutorial.
 
 ```blocks
 scene.setBackgroundImage(img`
@@ -128,3 +128,8 @@ scene.setBackgroundImage(img`
     dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 `)
 ```
+
+
+## Step 2
+
+Hurray! You did it
